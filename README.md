@@ -1,2 +1,2 @@
-# estrutura_de_dados
-Atividades de Estrutura de Dados
+# IFPE - Estrutura de Dados
+### Professor: ``Nilson Cândido``
